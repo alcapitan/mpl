@@ -13,13 +13,13 @@ Vous avez un espace dans le pied de page pour vous mentionner.
   
 
 Téléchargez le code source et ajoutez un second fichier CSS en tant que votre patch et modifiez le fichier "index.html". 
-Pour connaître les règles d'utilisation, veuillez <a href="https://github.com/alcapitan/atui/wiki">consultez le wiki</a> !  
+Pour connaître les règles d'utilisation, veuillez <a href="https://github.com/alcapitan/mpl/wiki">consultez le wiki</a> !  
 
   
 ## Signaler un bogue ou donner une idée
 
   
-N'hésitez pas à rapporter les bogues que vous avez constatés, dans la rubrique <a href="https://github.com/alcapitan/atui/issues">Issues</a>, cela m'aiderai beaucoup dans le développement.  
+N'hésitez pas à rapporter les bogues que vous avez constatés, dans la rubrique <a href="https://github.com/alcapitan/mpl/issues">Issues</a>, cela m'aiderai beaucoup dans le développement.  
 Et vous pouvez également me donner des idées pour de futures fonctionnalités.  
 Vous pouvez également me poser des questions sur ce projet au même endroit.  
 
@@ -27,11 +27,11 @@ Vous pouvez également me poser des questions sur ce projet au même endroit.
 ## Contribuer au projet
 
   
-Si vous voulez me soumettre vos modifications, <a href="https://github.com/alcapitan/atui/wiki">consultez le wiki</a> pour connaître mes règles de codes conventionnelles.  
+Si vous voulez me soumettre vos modifications, <a href="https://github.com/alcapitan/mpl/wiki">consultez le wiki</a> pour connaître mes règles de codes conventionnelles.  
 
 ## Licences
 
-Ce projet est sous licence <a href="https://github.com/alcapitan/atui/blob/public/LICENSE.md">GNU General Public Licence</a>.  
+Ce projet est sous licence <a href="https://github.com/alcapitan/mpl/blob/public/LICENSE.md">GNU General Public Licence</a>.  
 Je vous demande de garder le texte "Basé sur MPL".
 
   
