@@ -31,7 +31,7 @@ Si vous voulez me soumettre vos modifications, <a href="https://github.com/alcap
 
 ## Licences
 
-Ce projet est sous licence <a href="https://github.com/alcapitan/mpl/blob/public/LICENSE.md">GNU General Public Licence</a>.  
+Ce projet est sous licence <a href="https://github.com/alcapitan/mpl/blob/public/LICENSE">GNU General Public Licence</a>.  
 Je vous demande de garder le texte "Basé sur MPL".
 
   
